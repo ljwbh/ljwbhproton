@@ -5,7 +5,7 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
-	'ca.ljwbh.filegear-sg.me:443#优选－B',
+	'ca.ljwbhdfcg.top:443#优选－B',
 	//'thaddeus.ns.cloudflare.com:443#thaddeus',
 	//'thaddeus.ns.cloudflare.com:443#thaddeus',
 	//'www.iios.me:443#www.iios.me',
@@ -23,7 +23,7 @@ let addressesapi = [
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
 let addressesnotls = [
-        'notls.jw163.us.kg:80#优选',	
+        'ca.ljwbhdfcg.top:443#优选',	
         //'thaddeus.ns.cloudflare.com:80#thaddeus',
 	//'thaddeus.ns.cloudflare.com:80#thaddeus',
 	//'www.iios.me:80#www.iios.me',
